@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Datools'
-copyright = "2020, Adam Marcus"
-author = "Adam Marcus"
+copyright = "2020, Unlimited Labs, Inc."
+author = "Unlimited Labs, Inc."
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -129,7 +129,7 @@ latex_elements = {
 latex_documents = [
     (master_doc, 'datools.tex',
      'Datools Documentation',
-     'Adam Marcus', 'manual'),
+     'Unlimited Labs, Inc.', 'manual'),
 ]
 
 
@@ -157,6 +157,3 @@ texinfo_documents = [
      'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
